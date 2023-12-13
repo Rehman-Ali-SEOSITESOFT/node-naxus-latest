@@ -1691,6 +1691,13 @@ video#cover-video {
   background-size: cover;
 }
 
+#header .navbar-default .navbar-nav .contact2 {
+  /* background-image: url("../img/bg/bgbond.jpg"); */
+  background-image: url("../img/bg/bg6.jpg");
+  background-position: center center;
+  background-size: cover;
+}
+
 #header .navbar-default .navbar-nav .auth {
   background-image: url("../img/bg/bg18.jpg");
   background-position: center center;
